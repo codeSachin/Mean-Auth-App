@@ -1,0 +1,2 @@
+# Mean-Auth-App
+Made a MEAN Stack app with proper authentication, login, register systems using passport.js Backend in Node.js, Express and MongoDB. Frontend in Angular 4. Front end is not very spectacular as i am just learning how to bundle front end and back end on one port. Also learning how to integrate passport.js with our APP and Hashing with bcryptjs and authentication with JWT (Json Web Token). More things will be added down the line. :)
